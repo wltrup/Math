@@ -1,5 +1,8 @@
-# Math
+# Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
+
+##### (2004) [Some Surprising Results in Linear Regression](https://github.com/wltrup/Math-Some-Surprising-Results-in-Linear-Regression)
+While collaborating with a colleague on a paper in _Data Mining_, I found some interesting and surprising results in that old horse of statistics, _Linear Regression Analysis_.
 
 ##### (2001) [EM Algorithm for Gaussian Mixtures](https://github.com/wltrup/Math-EM-Algorithm-for-Gaussian-Mixtures)
 The mathematical description of an implementation of the [Expectation-Maximization algorithm](http://en.wikipedia.org/wiki/Expectation–maximization_algorithm) applied to a mixture of Gaussian distributions.
