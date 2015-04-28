@@ -1,6 +1,19 @@
 # Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2015) [Frank's Lunch Problem](https://github.com/wltrup/Math-Franks-Lunch-Problem)
+Frank eats lunch 4 out of every 5 working days and spends a minimum of 5 pounds, a maximum of 15 pounds, with a most likely value of 8 pounds, per lunch. What is the distribution of possible lunch costs at the end of a work week?
+
+##### (2014/2015) [Tridiagonal Toeplitz and Tridiagonal _near-_Toeplitz Matrices](https://github.com/wltrup/Math-Tridiagonal-Toeplitz-Matrices)
+Last year I got interested in a particular kind of one-dimensional problem involving multiple point masses oscillating as if they were connected by springs. The problem of finding the normal modes of such a system reduces to diagonalizing a matrix of a special form, known as a [_Tridiagonal Toeplitz_](http://de.wikipedia.org/wiki/Tridiagonal-Toeplitz-Matrix) matrix. Not content with just looking up their eigenvalues, I decided to prove the result myself.
+
+Almost a year later, a follow-up to that problem involved a small change to the physical system that propagated itself as a small change in the problem's tridiagonal Toeplitz matrix. As a result, the eigenvalues from the original problem no longer applied and I had to solve a whole new problem: finding the eigenvalues and eigenvectors of a tridiagonal matrix that is _almost_ Toeplitz (with a sensible definition of _almost_).
+
+To my knowledge, this is an original result.
+
+##### (2013) [Kalman Filtering Accelerometer Data](https://github.com/wltrup/Math-Kalman-Filtering-Accelerometer-Data)
+At one point when I was working for [Hailo](https://www.hailoapp.com), I got to write a [_Kalman filter_](http://en.wikipedia.org/wiki/Kalman_filter).
+
 ##### (2011) [Square Roots and Irrational Numbers](https://github.com/wltrup/Math-Square-Roots-and-Irrational-Numbers)
 A little essay I wrote when I had trouble sleeping one night. It proves that the only integer numbers whose square roots are rational numbers are the perfect squares. Nothing original here but a fun exercise nonetheless for sleepless nights.
 
