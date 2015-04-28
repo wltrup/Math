@@ -2,7 +2,7 @@
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
 ##### (2006) [Solving Polynomial Equations](https://github.com/wltrup/Math-Solving-Polynomial-Equations)
-Evarist Galois has long proved that no polynomial equation of degree 5 or above can be solved in closed analytical form. Solving a quadratic equation, on the other hand, is trivial. How about polynomial equations of degrees 3 and 4? Here you will find the complete analytical solution for general polynomial equations of both degrees.
+[Evarist Galois](http://en.wikipedia.org/wiki/Évariste_Galois) has long proved that no polynomial equation of degree 5 or above can be solved in closed analytical form. Solving a quadratic equation, on the other hand, is trivial. How about polynomial equations of degrees 3 and 4? Here you will find the complete analytical solution for general polynomial equations of both degrees.
 
 ##### (2004) [Some Surprising Results in Linear Regression](https://github.com/wltrup/Math-Some-Surprising-Results-in-Linear-Regression)
 While collaborating with a colleague on a paper in _Data Mining_, I found some interesting and surprising results in that old horse of statistics, _Linear Regression Analysis_.
