@@ -1,6 +1,9 @@
 # Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2015) [Grid Paths](https://github.com/wltrup/Grid-Paths)
+How many possible paths are there in a grid, if you're allowed only to move to the right or downwards and must avoid certain intersections?
+
 ##### (2015) [Frank's Lunch Problem](https://github.com/wltrup/Math-Franks-Lunch-Problem)
 Frank eats lunch 4 out of every 5 working days and spends a minimum of 5 pounds, a maximum of 15 pounds, with a most likely value of 8 pounds, per lunch. What is the distribution of possible lunch costs at the end of a work week?
 
