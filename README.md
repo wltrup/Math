@@ -6,10 +6,18 @@ How many possible paths are there in a grid, if you're allowed only to move to t
 
 I went as far as obtaining a result for 2 or fewer intersections to be avoided so, technically, this is still work in progress.
 
+##### (2015) [Sphere Collision Detection](https://github.com/wltrup/Math-Sphere-Collision-Detection)
+Suppose two spheres (of radii R1 and R2, respectively) are currently located at position vectors **r1** and **r2**, moving with velocity vectors **v1** and **v2**, respectively. Will they collide?
+
 ##### (2015) [Frank's Lunch Problem](https://github.com/wltrup/Math-Franks-Lunch-Problem)
 Frank eats lunch 4 out of every 5 working days and spends a minimum of 5 pounds, a maximum of 15 pounds, with a most likely value of 8 pounds, per lunch. What is the distribution of possible lunch costs at the end of a work week?
 
 I went quite far with this but there's still some work left to do so, technically, this is still work in progress.
+
+##### (2015) [Coefficients of Average](https://github.com/wltrup/Math-Coefficients-of-Average)
+Given a set of real positive numbers, how does one find a corresponding set of weights so that the weighted average of the given numbers equals a given value?
+
+Of course, there are infinitely many solutions to this problem but there is a *unique* solution that minimizes the sum of the squares of the weights.
 
 ##### (2014/2015) [Tridiagonal Toeplitz and Tridiagonal *near* Toeplitz Matrices](https://github.com/wltrup/Math-Tridiagonal-Toeplitz-Matrices)
 Last year I got interested in a particular kind of one-dimensional problem involving multiple point masses oscillating as if they were connected by springs. The problem of finding the normal modes of such a system reduces to diagonalizing a matrix of a special form, known as a [_Tridiagonal Toeplitz_](http://de.wikipedia.org/wiki/Tridiagonal-Toeplitz-Matrix) matrix. Not content with just looking up their eigenvalues, I decided to prove the result myself.
