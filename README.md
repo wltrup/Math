@@ -47,6 +47,9 @@ The fairest voting system is one where no one _needs_ to vote! Ok, not quite.
 ##### (2006) [Solving Polynomial Equations](https://github.com/wltrup/Math-Solving-Polynomial-Equations)
 [Evarist Galois](http://en.wikipedia.org/wiki/Évariste_Galois) has long proved that no polynomial equation of degree 5 or above can be solved in closed analytical form. Solving a quadratic equation, on the other hand, is trivial. How about polynomial equations of degrees 3 and 4? Here you will find the complete analytical solution for general polynomial equations of both degrees.
 
+##### (2004) [B-Splines](https://github.com/wltrup/Math-B-Splines)
+[B-Splines](https://en.wikipedia.org/wiki/B-spline) are specialized parametric curves useful in curve-fitting, numerical differentiation of data, and in computer graphics applications. Their parameters are defined recursively so, in this essay, I obtain the explicit parameters for B-splines of degree up to and including 4.
+
 ##### (2004) [Logistic Regression Classifier](https://github.com/wltrup/Math-Logistic-Regression-Classifier)
 A heavily technical document I wrote for one of my jobs, in preparation for the design and implementation of an automatic multiclass document classifier. Originally written on April 21, 2004.
 
