@@ -1,6 +1,15 @@
 # Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2018) [Exploring Turing Patterns](https://github.com/wltrup/Math-Exploring-Turing-Patterns)
+I recently came across a fascinating article, [A Math Theory for Why People Hallucinate](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730), describing recent attempts to mathematically model how the brain creates visual hallucinations. That article, in turn, pointed me to the subject of so-called *Turing patterns* and, in particular, to Turing's paper on morphogenesis as possibly being due to the interplay between diffusion processes and the competition between activating and inhibiting chemicals, [The Chemical Basis of Morphogenesis](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf).
+
+The potential applicability of Turing's hypothesis is mind-blowing. From how the patterns on the furs of animals form to how cells differentiate during the various phases of embryonic development and from how patterns form in sand dunes to how spiral arms form in galaxies, any time a process involves two competing entities (an activator and an inhibitor) spreading over space in a diffusive manner, the stage is set for Turing patterns to form.
+
+From a purely mathematical point of view, Turing's paper is a particular application of a certain kind of partial differential equation. Mathematical physics has always been one of my favorite topics so I've decided to explore that same equation in a more systematic fashion than Turing's approach in that paper. I'm sure that nothing I'll be doing will be new but working through problems like this is fun, at least for me.
+
+I went quite far but there's plenty that could be done still so this is work in progress.
+
 ##### (2015) [Grid Paths](https://github.com/wltrup/Math-Grid-Paths)
 How many possible paths are there in a grid, if you're allowed only to move to the right or downwards and must avoid certain intersections?
 
