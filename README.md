@@ -1,6 +1,11 @@
 # Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2019) [Indexing Combinations](https://github.com/wltrup/Math-Indexing-Combinations)
+How can we compute an index for a given combination of the *n* integers {1,2,3,...,n} taken *k* at a time? Also, given such an index, how can we recover the particular combination that has that index?
+
+It turns out that there is a relatively easy-to-compute expression for the index of such a combination and there's a pretty efficient procedure to recover it, given its index.
+
 ##### (2018) [Exploring Turing Patterns](https://github.com/wltrup/Math-Exploring-Turing-Patterns)
 I recently came across a fascinating article, [A Math Theory for Why People Hallucinate](https://www.quantamagazine.org/a-math-theory-for-why-people-hallucinate-20180730), describing recent attempts to mathematically model how the brain creates visual hallucinations. That article, in turn, pointed me to the subject of so-called *Turing patterns* and, in particular, to Turing's paper on morphogenesis as possibly being due to the interplay between diffusion processes and the competition between activating and inhibiting chemicals, [The Chemical Basis of Morphogenesis](http://www.dna.caltech.edu/courses/cs191/paperscs191/turing.pdf).
 
