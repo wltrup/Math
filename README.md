@@ -1,6 +1,11 @@
 # Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2020) [The Goat and The Fence](https://github.com/wltrup/Math-Fenced-Goat)
+I just read an interesting mathematical puzzle. Suppose there is a goat inside of a circular fence of a given radius. If the goat has a leash attached to a point inside the fence, how long does the leash have to be so that the goat can graze through exactly **half** the total area inside the fence?
+
+It sounded like a reasonably easy problem to solve and I had nothing better to do, so I solved it.
+
 ##### (2019) [Indexing Combinations](https://github.com/wltrup/Math-Indexing-Combinations)
 How can we compute an index for a given combination of the *n* integers {1,2,3,...,n} taken *k* at a time? Also, given such an index, how can we recover the particular combination that has that index?
 
