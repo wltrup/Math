@@ -69,7 +69,7 @@ The fairest voting system is one where no one _needs_ to vote! Ok, not quite.
 A heavily technical document I wrote for one of my jobs, in preparation for the design and implementation of an automatic multiclass document classifier. Originally written on April 21, 2004.
 
 ##### (2004) [Some Surprising Results in Linear Regression](https://github.com/wltrup/Math-Some-Surprising-Results-in-Linear-Regression)
-While collaborating with a colleague on a paper in _Data Mining_, I found some interesting and surprising results in that old horse of statistics, _Linear Regression Analysis_.
+While collaborating with a colleague on a paper on _Data Mining_, I found some interesting and surprising results in that old horse of statistics, _Linear Regression Analysis_.
 
 ##### (2001) [EM Algorithm for Gaussian Mixtures](https://github.com/wltrup/Math-EM-Algorithm-for-Gaussian-Mixtures)
 The mathematical description of an implementation of the [Expectation-Maximization algorithm](http://en.wikipedia.org/wiki/Expectation–maximization_algorithm) applied to a mixture of Gaussian distributions.
