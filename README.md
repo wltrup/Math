@@ -1,6 +1,11 @@
 # Mathematics
 Here you'll find an assortment of technical essays I've written over the years either as part of other research, or as teaching aids, or as pass-time exercises when I had nothing more interesting to occupy myself with. Nothing here is truly original, except perhaps for the presentation. Some of them are still works in progress.
 
+##### (2022) [The Triangle Puzzle](https://github.com/wltrup/Math-Triangle-Puzzle)
+I came across an interesting mathematical puzzle, namely, find the value of the angle 𝜙 in the triangle shown in the figure below. It turns out that it's a surprisingly non-trivial problem to solve. I like a mathematical challenge so... I solved a more general version of the problem, where the angles at the bottom are arbitrary.
+
+![triangle](fig_1.png)
+
 ##### (2020) [The Goat and The Fence](https://github.com/wltrup/Math-Fenced-Goat)
 I just read an interesting mathematical puzzle. Suppose there is a goat inside of a circular fence of a given radius. If the goat has a leash attached to a point inside the fence, how long does the leash have to be so that the goat can graze through exactly **half** the total area inside the fence?
 
